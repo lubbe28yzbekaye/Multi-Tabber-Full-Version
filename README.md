@@ -233,3 +233,6 @@ This repository serves as the official landing page for Multi-Tabber. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Multi-Tabber today!**
+
+---
+**Last updated:** 2026-09-11 11:54:27 UTC
