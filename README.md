@@ -235,4 +235,4 @@ This repository serves as the official landing page for Multi-Tabber. The softwa
 **Get the most recent version of Multi-Tabber today!**
 
 ---
-**Last updated:** 2026-10-07 17:34:54 UTC
+**Last updated:** 2026-10-07 22:22:41 UTC
